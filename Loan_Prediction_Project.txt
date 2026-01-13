@@ -1,0 +1,66 @@
+Smart Loan Approval Prediction System Using Machine Learning
+
+--------------------------------------------------
+
+Project Overview:
+This project uses machine learning techniques to predict whether a loan application will be approved or rejected. The system analyzes applicant information and helps banks make faster and more accurate loan approval decisions.
+
+--------------------------------------------------
+
+Objective:
+To build a machine learning classification model that predicts loan approval status.
+
+Loan_Status:
+Y  -> Loan Approved
+N  -> Loan Rejected
+
+--------------------------------------------------
+
+Dataset Description:
+The dataset contains applicant details such as:
+- Gender
+- Marital Status
+- Education
+- Applicant Income
+- Coapplicant Income
+- Loan Amount
+- Credit History
+- Property Area
+
+--------------------------------------------------
+
+Technologies Used:
+Python
+Google Colab / Jupyter Notebook
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+
+--------------------------------------------------
+
+Project Workflow:
+1. Load the dataset
+2. Handle missing values
+3. Encode categorical variables
+4. Split the dataset into training and testing sets
+5. Train the machine learning model (KNN / Decision Tree)
+6. Evaluate the model using accuracy
+
+--------------------------------------------------
+
+Output:
+The model predicts whether a loan application will be approved or rejected based on applicant data.
+
+--------------------------------------------------
+
+Use Cases:
+- Banking and financial institutions
+- Academic mini projects
+- Machine learning practice
+- Resume and portfolio project
+
+--------------------------------------------------
+
+Author:
+Himanshu Panwar
